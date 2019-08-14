@@ -42,5 +42,9 @@ plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
 
+<<<<<<< HEAD
 url: shashika007.github.io/my-robotics-blog/
 baseurl: /myreponame
+=======
+theme: jekyll-theme-cayman
+>>>>>>> c986ebceca4d3cc24667ef3d768ae2e6aea828a0
