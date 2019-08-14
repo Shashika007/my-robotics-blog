@@ -41,3 +41,6 @@ texture:
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+
+url: shashika007.github.io/my-robotics-blog/
+baseurl: /myreponame
